@@ -1,0 +1,3 @@
+MWPT Simulation Log
+Chaser Data Columns: MWPT.A1ModJulian          MWPT.EarthMJ2000Eq.X      MWPT.EarthMJ2000Eq.Y      MWPT.EarthMJ2000Eq.Z      MWPT.EarthMJ2000Eq.VX     MWPT.EarthMJ2000Eq.VY     MWPT.EarthMJ2000Eq.VZ     
+Receiver Data Columns: target.A1ModJulian        target.EarthMJ2000Eq.X    target.EarthMJ2000Eq.Y    target.EarthMJ2000Eq.Z    target.EarthMJ2000Eq.VX   target.EarthMJ2000Eq.VY   target.EarthMJ2000Eq.VZ   
